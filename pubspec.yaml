@@ -1,6 +1,6 @@
 name: foldable_list_card
 description: A highly customizable Flutter widget with beautiful 3D folding animation. Perfect for creating expandable cards, FAQ sections, settings panels, and accordion-style lists with smooth unfold effects.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/ritish-metta/foldable_list_card_pub.dev
 repository: https://github.com/ritish-metta/foldable_list_card_pub.dev
 issue_tracker: https://github.com/ritish-metta/foldable_list_card_pub.dev/issues

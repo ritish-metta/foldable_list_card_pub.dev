@@ -9,3 +9,11 @@
 - Initial release
 - Basic foldable card with 3D animation
 - Custom header and expandable content support
+
+
+## 0.0.3
+
+- Latest stable release
+- Bug fixes and stability improvements
+- Performance enhancements for smooth animations
+- Better compatibility with different Flutter versions
