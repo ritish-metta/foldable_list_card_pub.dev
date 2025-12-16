@@ -7,18 +7,12 @@ A highly customizable Flutter widget that creates an expandable card with a beau
 See the Foldable List Card in action:
 
 ### Colorful Theme
-https://github.com/user-attachments/assets/color_fold_demo.mp4
-
 [Watch Video](https://res.cloudinary.com/dlx1rzgjq/video/upload/v1765880341/color_fold_swsprk.mp4)
 
 ### Light Theme
-https://github.com/user-attachments/assets/light_fold_demo.mp4
-
 [Watch Video](https://res.cloudinary.com/dlx1rzgjq/video/upload/v1765880320/wight_fold_nochif.mp4)
 
 ### Multiple Cards
-https://github.com/user-attachments/assets/multiple_cards_demo.mp4
-
 [Watch Video](https://res.cloudinary.com/dlx1rzgjq/video/upload/v1765880312/jetboxex_ny0eyr.mp4)
 
 ## Overview
