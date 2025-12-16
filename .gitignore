@@ -29,3 +29,28 @@ migrate_working_dir/
 .flutter-plugins-dependencies
 /build/
 /coverage/
+
+# Test files (exclude from repository)
+/test/
+test/
+test/foldable_list_card_test.dart
+
+# Example files (optional - uncomment if you want to exclude)
+# /example/
+# example/
+
+# Generated files
+*.g.dart
+*.freezed.dart
+
+# Platform specific
+.android/
+.ios/
+.linux/
+.macos/
+.windows/
+.web/
+
+# Package files
+*.tar.gz
+*.zip
