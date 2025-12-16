@@ -2,18 +2,26 @@
 
 A highly customizable Flutter widget that creates an expandable card with a beautiful 3D folding animation. Perfect for FAQ sections, expandable lists, settings panels, and more.
 
-## Demo Videos
+## 🎬 Demo
 
 See the Foldable List Card in action:
 
 ### Colorful Theme
-[Watch Video](https://res.cloudinary.com/dlx1rzgjq/video/upload/v1765880341/color_fold_swsprk.mp4)
+![Colorful Theme Demo](https://res.cloudinary.com/dlx1rzgjq/image/upload/v1765894463/ezgif.com-video-to-gif-converter_1_svhetp.gif)
 
-### Light Theme
-[Watch Video](https://res.cloudinary.com/dlx1rzgjq/video/upload/v1765880320/wight_fold_nochif.mp4)
+*Beautiful gradient colors with smooth 3D folding animation*
+
+### Light Theme  
+![Light Theme Demo](https://res.cloudinary.com/dlx1rzgjq/image/upload/v1765894421/ezgif.com-video-to-gif-converter_tjnyrp.gif)
+
+*Clean, minimal design perfect for light mode apps*
 
 ### Multiple Cards
-[Watch Video](https://res.cloudinary.com/dlx1rzgjq/video/upload/v1765880312/jetboxex_ny0eyr.mp4)
+![Multiple Cards Demo](https://res.cloudinary.com/dlx1rzgjq/image/upload/v1765894483/ezgif.com-video-to-gif-converter_2_fu10ti.gif)
+
+*Multiple cards working together in perfect harmony*
+
+---
 
 ## Overview
 
@@ -33,13 +41,13 @@ This package stands out with its physics-based 3D transformation that creates de
 
 ## Features
 
-✨ **Smooth 3D Animation** - Cards unfold from top to bottom like opening a letter
-🎨 **Fully Customizable** - Control colors, sizes, borders, shadows, and more
-⚡ **Performance Optimized** - Efficient animations using Flutter's animation framework
-🔧 **Flexible API** - Easy to use with sensible defaults, yet powerful when needed
-📱 **Material Design** - Follows Flutter's Material Design guidelines
-🎯 **Event Callbacks** - Track expansion and collapse with custom callbacks
-💫 **Custom Styling** - Support for gradients, custom decorations, and themes
+✨ **Smooth 3D Animation** - Cards unfold from top to bottom like opening a letter  
+🎨 **Fully Customizable** - Control colors, sizes, borders, shadows, and more  
+⚡ **Performance Optimized** - Efficient animations using Flutter's animation framework  
+🔧 **Flexible API** - Easy to use with sensible defaults, yet powerful when needed  
+📱 **Material Design** - Follows Flutter's Material Design guidelines  
+🎯 **Event Callbacks** - Track expansion and collapse with custom callbacks  
+💫 **Custom Styling** - Support for gradients, custom decorations, and themes  
 ♿ **Accessible** - Built with accessibility in mind
 
 ## Installation
