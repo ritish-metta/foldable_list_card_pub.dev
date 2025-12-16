@@ -13,21 +13,21 @@ See the Foldable List Card in action:
       <br/>
       <b>Light Theme</b>
       <br/>
-      <i>Beautiful gradient colors with smooth 3D folding animation</i>
+      <i></i>
     </td>
     <td width="33%" align="center">
       <img src="https://res.cloudinary.com/dlx1rzgjq/image/upload/v1765894421/ezgif.com-video-to-gif-converter_tjnyrp.gif" alt="Light Theme Demo" width="100%"/>
       <br/>
       <b>Colorful Theme</b>
       <br/>
-      <i>Clean, minimal design perfect for light mode apps</i>
+      <i></i>
     </td>
     <td width="33%" align="center">
       <img src="https://res.cloudinary.com/dlx1rzgjq/image/upload/v1765894483/ezgif.com-video-to-gif-converter_2_fu10ti.gif" alt="Multiple Cards Demo" width="100%"/>
       <br/>
       <b>professional way</b>
       <br/>
-      <i>Multiple cards working together in perfect harmony</i>
+      <i></i>
     </td>
   </tr>
 </table>
