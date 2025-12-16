@@ -8,7 +8,7 @@ See the Foldable List Card in action:
 
 | Colorful Theme | Light Theme | Multiple Cards |
 |----------------|-------------|----------------|
-| ![Color Demo](https://res.cloudinary.com/dlx1rzgjq/video/upload/v1765880341/color_fold_swsprk.mp4) | ![Light Demo](https://res.cloudinary.com/dlx1rzgjq/video/upload/v1765880320/wight_fold_nochif.mp4) | ![Multiple Cards](https://res.cloudinary.com/dlx1rzgjq/video/upload/v1765880312/jetboxex_ny0eyr.mp4) |
+
 
 **Watch the demos:**
 - [Colorful Theme Demo](https://res.cloudinary.com/dlx1rzgjq/video/upload/v1765880341/color_fold_swsprk.mp4)
