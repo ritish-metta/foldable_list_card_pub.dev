@@ -17,3 +17,7 @@
 - Bug fixes and stability improvements
 - Performance enhancements for smooth animations
 - Better compatibility with different Flutter versions
+
+## 0.0.4
+
+- README update
